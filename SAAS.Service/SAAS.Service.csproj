@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SAAS.Infra\SAAS.Infra.csproj" />
+    <ProjectReference Include="..\SAAS.Model\SAAS.Model.csproj" />
+  </ItemGroup>
+
+</Project>

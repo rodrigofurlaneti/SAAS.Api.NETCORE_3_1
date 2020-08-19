@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Service.deps.json
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Service.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Service.pdb
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Infra.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Model.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Infra.pdb
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\bin\Debug\netcoreapp3.1\SAAS.Model.pdb
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.csproj.CopyComplete
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Service\obj\Debug\netcoreapp3.1\SAAS.Service.pdb

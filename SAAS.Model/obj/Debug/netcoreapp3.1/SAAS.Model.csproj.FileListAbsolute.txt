@@ -1,0 +1,9 @@
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\bin\Debug\netcoreapp3.1\SAAS.Model.deps.json
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\bin\Debug\netcoreapp3.1\SAAS.Model.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\bin\Debug\netcoreapp3.1\SAAS.Model.pdb
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.dll
+C:\Users\Administrador\source\repos\SAAS.Api\SAAS.Model\obj\Debug\netcoreapp3.1\SAAS.Model.pdb
