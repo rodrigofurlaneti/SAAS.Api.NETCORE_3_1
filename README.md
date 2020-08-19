@@ -2,7 +2,8 @@
 
 
 
-#MER
+<p align="center">MER</p>
+
 ![alt text](MER.png)
 
 
