@@ -18,6 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.401-windows-x64-installer)
 - [SQL Server](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15)
+- [Dapper](https://dapper-tutorial.net/dapper)
 
 
 ```shell
