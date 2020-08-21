@@ -7,8 +7,7 @@
 
 ![Alt text](https://www.newtonsoft.com/content/images/twitterlogo.png)
 
-![Alt text](https://miro.medium.com/max/1050/1*QfmtMDpR23DkpSBOEB50FA.png)
-
+<img src="https://miro.medium.com/max/1050/1*QfmtMDpR23DkpSBOEB50FA.png" width="50%" height="50%">
 
 <p align="center">MER</p>
 
