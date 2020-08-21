@@ -4,7 +4,7 @@
 
 ![Alt text](https://compuclass.com.br/wp-content/uploads/2019/12/capa-curso-sql-server.png)
 
-
+![Alt text](https://miro.medium.com/max/1050/1*oSRHmPyxs10yG3JFHVlFhg.png)
 
 
 <p align="center">MER</p>
