@@ -2,7 +2,7 @@
 
 ![Alt text](https://3.bp.blogspot.com/-mxF__jCVkCU/XefJCxxy9WI/AAAAAAAAXyg/AvVFyFT0JAEquOWki4j1sw4hu_RlBZDQwCLcBGAsYHQ/s1600/download-latest-dotnet-core-min.jpg)
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fteltecsolutions.com.br%2Ffim-do-suporte-sql-server-2008&psig=AOvVaw0tsikUGrFoM6dIIneQlqzC&ust=1598134256802000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDO7ZeoresCFQAAAAAdAAAAABAD)
+![Alt text](https://compuclass.com.br/wp-content/uploads/2019/12/capa-curso-sql-server.png)
 
 
 
