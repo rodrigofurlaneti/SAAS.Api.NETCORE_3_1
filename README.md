@@ -8,6 +8,9 @@
 
 ![Alt text](https://www.newtonsoft.com/content/images/twitterlogo.png)
 
+![Alt text](https://miro.medium.com/max/1050/1*QfmtMDpR23DkpSBOEB50FA.png)
+
+
 <p align="center">MER</p>
 
 ![alt text](MER.png)
