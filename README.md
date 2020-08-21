@@ -1,8 +1,7 @@
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com%3Amavenquickstart&metric=alert_status)
 <img src="https://3.bp.blogspot.com/-mxF__jCVkCU/XefJCxxy9WI/AAAAAAAAXyg/AvVFyFT0JAEquOWki4j1sw4hu_RlBZDQwCLcBGAsYHQ/s1600/download-latest-dotnet-core-min.jpg" width="50%" height="50%">
-![Alt text](https://3.bp.blogspot.com/-mxF__jCVkCU/XefJCxxy9WI/AAAAAAAAXyg/AvVFyFT0JAEquOWki4j1sw4hu_RlBZDQwCLcBGAsYHQ/s1600/download-latest-dotnet-core-min.jpg){:height="50%" width="50%"}
 
-![Alt text](https://compuclass.com.br/wp-content/uploads/2019/12/capa-curso-sql-server.png)
+<img src="https://compuclass.com.br/wp-content/uploads/2019/12/capa-curso-sql-server.png" width="50%" height="50%">
 
 ![Alt text](https://miro.medium.com/max/1050/1*oSRHmPyxs10yG3JFHVlFhg.png)
 
