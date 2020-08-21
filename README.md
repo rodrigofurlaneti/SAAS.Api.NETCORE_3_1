@@ -1,6 +1,6 @@
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com%3Amavenquickstart&metric=alert_status)
 
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 <p align="center">MER</p>
 
