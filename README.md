@@ -12,6 +12,7 @@
 ## SAAS.Service - Normaliza os dados da Api com as Stored Procedure - biblioteca de classes
 ## SAAS.Model -  Modelos, Classes - biblioteca de classes
 ## SAAS.Front/src -  Angular
+## SAAS.Sql -  Banco de dados
 
 ### 🛠 Tecnologias
 
