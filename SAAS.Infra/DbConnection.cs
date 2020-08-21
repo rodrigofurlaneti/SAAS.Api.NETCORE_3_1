@@ -10,7 +10,7 @@ namespace SAAS.Infra
         }
         public string GetConnectionString()
         {
-            return @"Server=dbsq0007.whservidor.com;Database=rodrigofur;User Id=rodrigofur;Password=digo310884;";
+            return @"Server=;Database=;User Id=;Password=;";
         }
         public SqlConnection getSqlConnection()
         {
