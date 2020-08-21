@@ -3,7 +3,7 @@
 
 <img src="https://compuclass.com.br/wp-content/uploads/2019/12/capa-curso-sql-server.png" width="50%" height="50%">
 
-![Alt text](https://miro.medium.com/max/1050/1*oSRHmPyxs10yG3JFHVlFhg.png)
+<img src="https://miro.medium.com/max/1050/1*oSRHmPyxs10yG3JFHVlFhg.png" width="50%" height="50%">
 
 ![Alt text](https://www.newtonsoft.com/content/images/twitterlogo.png)
 
