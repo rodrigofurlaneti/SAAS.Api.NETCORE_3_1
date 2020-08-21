@@ -6,6 +6,7 @@
 
 ![Alt text](https://miro.medium.com/max/1050/1*oSRHmPyxs10yG3JFHVlFhg.png)
 
+![Alt text](https://www.newtonsoft.com/content/images/twitterlogo.png)
 
 <p align="center">MER</p>
 
