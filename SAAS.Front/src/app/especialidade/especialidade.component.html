@@ -1,0 +1,16 @@
+<div class="table-responsive">
+    <table class="table table-sm table-hover">
+      <thead>
+        <tr>
+          <th scope="col">Id</th>
+          <th scope="col">Nome</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let especialidade of especialidades">
+          <th scope="row">{{ especialidade.id_especialidade }}</th>
+          <td>{{ especialidade.nom_especialidade }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

@@ -13,7 +13,8 @@ namespace SAAS.Api.Controllers
         public ActionResult<IEnumerable<Especialidade>> Get()
         {
             var ret = EspecialidadeService.SelecionarTodasEspecialidades();
-            return Ok(ret);
+            if (ret.Ok) return Ok(ret.ListaObj);
+            else return BadRequest(ret.MensagemProc);
         }
     }
 }

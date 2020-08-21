@@ -13,7 +13,8 @@ namespace SAAS.Api.Controllers
         public ActionResult<IEnumerable<Medico>> Get()
         {
             var ret = MedicoService.SelecionarTodosMedicos();
-            return Ok(ret);
+            if (ret.Ok) return Ok(ret.ListaObj);
+            else return BadRequest(ret.MensagemProc);
         }
     }
 }
