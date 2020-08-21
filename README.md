@@ -11,6 +11,7 @@
 ## SAAS.Infra - Comunicação com o Banco de Dados - biblioteca de classes
 ## SAAS.Service - Normaliza os dados da Api com as Stored Procedure - biblioteca de classes
 ## SAAS.Model -  Modelos, Classes - biblioteca de classes
+## SAAS.Front/src -  Angular
 
 ### 🛠 Tecnologias
 
@@ -20,6 +21,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SQL Server](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15)
 - [Dapper](https://dapper-tutorial.net/dapper)
 - [NewtonSoft](https://www.newtonsoft.com/json)
+- [Angular 10.0.12](https://angular.io/)
+
 
 ```shell
 Rodrigo Luiz Madeira Furlaneti - 11 995882409 WhatsApp
